@@ -13,7 +13,7 @@ Categories of tests include:
 
 If you'd like to contribute and add test examples, please DM Dave via [slack.wedotdd.com](slack.wedotdd.com) or email him directly at wedotdd@gmail.com to request collaborator permissions for pull requests.
 
-We're looking for developers to add example tests based on many combinations of frameworks, code techniques, and libraries.  
+We're looking for developers to add example tests based on many combinations of frameworks, code techniques, and libraries and based on different use cases and context around testing with React.  
 
 For example:
 
