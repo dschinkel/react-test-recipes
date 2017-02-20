@@ -1,5 +1,15 @@
 # react-test-recipes
-A growing set of examples for testing React including different coding styles, techniques, test libraries, and test frameworks
+A growing set of examples for testing React including different coding styles, techniques, test libraries, and test frameworks.
+
+Categories of tests include:
+
+- Vanilla React - custom code
+- React + Flux
+- React + Redux
+- React + Meteor
+- React + Sails
+- React + Trails
+- ... and whatever else in the future
 
 If you'd like to contribute and add test examples, please DM Dave via [slack.wedotdd.com](slack.wedotdd.com) or email him directly at wedotdd@gmail.com to request collaborator permissions for pull requests.
 
