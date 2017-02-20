@@ -1,7 +1,7 @@
 # react-test-recipes
 A growing set of examples for testing React including different coding styles, techniques, test libraries, and test frameworks
 
-If you'd like to contribute and add test examples, please DM Dave via slack.wedotdd.com or email him directly at wedotdd@gmail.com to request collaborator permissions for pull requests.
+If you'd like to contribute and add test examples, please DM Dave via [slack.wedotdd.com](slack.wedotdd.com) or email him directly at wedotdd@gmail.com to request collaborator permissions for pull requests.
 
 We're looking for developers to add example tests based on many combinations of frameworks, code techniques, and libraries.  
 
